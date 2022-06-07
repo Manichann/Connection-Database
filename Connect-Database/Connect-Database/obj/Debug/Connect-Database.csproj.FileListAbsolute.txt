@@ -1,0 +1,11 @@
+F:\NUOL Study\Year2\Database Programming\Connect-Database\Connect-Database\bin\Debug\Connect-Database.exe.config
+F:\NUOL Study\Year2\Database Programming\Connect-Database\Connect-Database\bin\Debug\Connect-Database.exe
+F:\NUOL Study\Year2\Database Programming\Connect-Database\Connect-Database\bin\Debug\Connect-Database.pdb
+F:\NUOL Study\Year2\Database Programming\Connect-Database\Connect-Database\obj\Debug\Connect-Database.csproj.AssemblyReference.cache
+F:\NUOL Study\Year2\Database Programming\Connect-Database\Connect-Database\obj\Debug\Connect-Database.csproj.SuggestedBindingRedirects.cache
+F:\NUOL Study\Year2\Database Programming\Connect-Database\Connect-Database\obj\Debug\Connect_Database.employee.resources
+F:\NUOL Study\Year2\Database Programming\Connect-Database\Connect-Database\obj\Debug\Connect_Database.Properties.Resources.resources
+F:\NUOL Study\Year2\Database Programming\Connect-Database\Connect-Database\obj\Debug\Connect-Database.csproj.GenerateResource.cache
+F:\NUOL Study\Year2\Database Programming\Connect-Database\Connect-Database\obj\Debug\Connect-Database.csproj.CoreCompileInputs.cache
+F:\NUOL Study\Year2\Database Programming\Connect-Database\Connect-Database\obj\Debug\Connect-Database.exe
+F:\NUOL Study\Year2\Database Programming\Connect-Database\Connect-Database\obj\Debug\Connect-Database.pdb
